@@ -1,5 +1,4 @@
 
-Exploring multimeter
 Exploring the Multimeter
 A multimeter is a handy tool used to measure current, voltage, and resistance in both AC and DC circuits. It comes with two probes—one red and one black. The black probe is always connected to the middle socket labeled COM, while the red probe is switchable depending on what you're measuring.
 For voltage or resistance, the red probe should be connected to the socket right next to the COM port. To measure current, move the red probe to the left socket, usually labeled for 10A. This helps prevent damage if the current is higher than expected.
